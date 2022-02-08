@@ -1,6 +1,6 @@
 # github-search-user
-github-search-users with react
 
+github-search-users with react
 
 ## Starter Project
 
@@ -15,8 +15,6 @@ github-search-users with react
 
 ## React Router Dom
 
-
-
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
@@ -29,20 +27,18 @@ github-search-users with react
 
 ## Fusion Charts
 
-
 ## Auth0
-
-
 
 ## Deployment
 
 [Netlify](https://www.netlify.com/)
 
+[Project-gitHub-User](https://reactt-github-users.netlify.app)
+
+
 ## Additional Info
 
 #### Redirects with react-router-dom
-
-
 
 #### Warnings and create-react-app
 
